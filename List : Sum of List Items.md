@@ -12,8 +12,7 @@ To write a Python program that calculates the **sum of all elements** in a list.
 ```
 L=[10,34,35,70,20,5,8]
 print(sum(L))
-,,,
-
+```
 ## Output
 ![image](https://github.com/user-attachments/assets/e494951f-c0f8-4caf-a94a-e71fe245d75f)
 
