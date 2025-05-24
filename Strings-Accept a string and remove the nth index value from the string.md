@@ -29,7 +29,7 @@ input_str = input("Enter a string: ")
 print(remove(input_str))
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/3ad95f33-6aa7-431e-b6d1-421a84204263)
+![image](https://github.com/user-attachments/assets/4ae4b3a7-bf00-495b-ad28-6904db1a5cff)
 
 ## Result
 Thus,the program is executed successfully
